@@ -7,3 +7,5 @@ Tout d'abord, nous devons avoir un template de base pour que celui ci soit opér
 ```bash
 npm install nodemailer
 ```
+
+Et nous allons faire un petit essai avec ce qui nous donne !
